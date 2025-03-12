@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\config",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\socket"
+  ],
+  "SelectedNode": "\\frontend\\src\\index.js",
+  "PreviewInSolutionExplorer": false
+}
